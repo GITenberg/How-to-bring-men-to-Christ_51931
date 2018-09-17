@@ -1,5 +1,8 @@
 _repo: How-to-bring-men-to-Christ_51931
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51931-h/images/cover.jpg
 creator:
   author:
     agent_name: Torrey, R. A. (Reuben Archer)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '34459'
     url: http://www.gutenberg.org/2009/agents/34459
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51931#How-to-bring-men-to-Christ
 gutenberg_issued: '2016-05-01'
 gutenberg_type: Text
 identifiers:
